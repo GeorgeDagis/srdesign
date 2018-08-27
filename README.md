@@ -1,3 +1,3 @@
-# srdesign
+# Senior Design
 
-placeholder
+Repository for SUNY New Paltz Senior Design Project
