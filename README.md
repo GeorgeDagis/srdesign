@@ -1,3 +1,4 @@
 # Senior Design
 
-Repository for SUNY New Paltz Senior Design Project
+Main branch for SUNY New Paltz Senior Design Project.
+Branch consists of sub-branches for sorting purposes.
